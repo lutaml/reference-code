@@ -1,0 +1,15 @@
+http://www.w3.org/2002/07/owl#versionInfo, text
+http://www.w3.org/2004/02/skos/core#prefLabel, text
+http://purl.org/dc/elements/1.1/alternative, text
+http://www.w3.org/2004/02/skos/core#altLabel, text
+http://www.w3.org/2004/02/skos/core#hiddenLabel, text
+http://www.w3.org/2004/02/skos/core#definition, multiline
+http://www.w3.org/2000/01/rdf-schema#comment, multiline
+http://purl.org/dc/elements/1.1/source, text
+http://www.w3.org/2004/02/skos/core#note, multiline
+http://www.w3.org/2004/02/skos/core#example, multiline
+http://purl.org/dc/elements/1.1/creator, text
+http://purl.org/dc/elements/1.1/contributor, text
+http://purl.org/dc/elements/1.1/date, text
+http://purl.org/dc/elements/1.1/type, text
+http://www.w3.org/2004/02/skos/core#changeNote, multiline

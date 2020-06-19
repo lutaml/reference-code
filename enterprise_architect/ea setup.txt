@@ -1,0 +1,15 @@
+Set up version control - needs protege running first!
+	Unique ID = PLCSlib.data
+	select CVS
+	path local path to plcslib\data
+	accept current user
+	CVS path to normal CVS client
+	change VC timeout to 300 (the commant does take a long time to complete!)
+
+
+
+
+copy index.eap to the template/dvlp folder
+rename it to template.eap
+Add package for the template
+Configure package as control and version controlled
